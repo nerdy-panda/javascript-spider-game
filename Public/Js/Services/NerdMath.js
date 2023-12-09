@@ -1,0 +1,6 @@
+export default class NerdMath {
+    randomInteger(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+}
+//# sourceMappingURL=NerdMath.js.map

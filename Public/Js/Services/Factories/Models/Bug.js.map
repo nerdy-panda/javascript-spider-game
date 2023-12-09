@@ -1,0 +1,1 @@
+{"version":3,"file":"Bug.js","sourceRoot":"","sources":["../../../../../App/Services/Factories/Models/Bug.js"],"names":[],"mappings":"AAAA,OAAO,sBAAsB,MAAM,8BAA8B,CAAC;AAClE,OAAO,EAAE,OAAO,IAAI,KAAK,EAAE,MAAM,wBAAwB,CAAC;AAC1D,MAAM,CAAC,OAAO,OAAO,GAAI,SAAQ,sBAAsB;IACnD,MAAM,CAAC,QAAQ;QACX,OAAO,IAAI,KAAK,CAAC,GAAG,sBAAsB,CAAC,eAAe,EAAE,CAAC,CAAC;IAClE,CAAC;CACJ"}

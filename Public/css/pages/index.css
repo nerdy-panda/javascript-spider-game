@@ -1,0 +1,40 @@
+* {
+    margin: unset;
+}
+html,body {
+    height: 100%;
+}
+body {
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    background-image: url("../../assets/bg.jpg");
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.animal {
+    position: fixed;
+}
+#spider {
+    width: 30px;
+    height: 30px;
+}
+#bug {
+    width: 25px;
+    height: 25px;
+}
+.loser-animal {
+    background: red;
+}
+.winner-animal {
+    background:#0ae048;
+}
+.loser-animal , .winner-animal {
+    border-radius: 100%;
+}
+#countDown {
+    position: fixed;
+    left: 0;
+    top : 0 ;
+    color: white;
+}

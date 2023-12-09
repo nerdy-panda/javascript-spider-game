@@ -1,0 +1,1 @@
+{"version":3,"file":"Spider.js","sourceRoot":"","sources":["../../../../../App/Services/Factories/Models/Spider.js"],"names":[],"mappings":"AAAA,OAAO,EAAC,OAAO,IAAI,WAAW,EAAC,MAAM,2BAA2B,CAAC;AACjE,OAAO,sBAAsB,MAAM,8BAA8B,CAAC;AAElE,MAAM,CAAC,OAAO,OAAO,MAAO,SAAQ,sBAAsB;IACtD,MAAM,CAAC,QAAQ;QACX,OAAO,IAAI,WAAW,CAAC,GAAG,sBAAsB,CAAC,eAAe,EAAE,CAAC,CAAC;IACxE,CAAC;CACJ"}
